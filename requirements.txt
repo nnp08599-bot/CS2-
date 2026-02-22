@@ -1,2 +1,4 @@
 demoparser2
 pandas
+fastapi
+uvicorn
